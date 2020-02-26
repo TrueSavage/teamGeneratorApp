@@ -1,0 +1,20 @@
+{
+  "name": "teamgenerator",
+  "version": "1.0.0",
+  "description": "dynamicly generates employee information",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test /*"
+  },
+  "author": "Savage",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.3",
+    "inquirer": "^7.0.4",
+    "jest": "^25.1.0"
+  }
+}

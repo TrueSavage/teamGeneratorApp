@@ -1,0 +1,134 @@
+.card-title {
+  color: black;
+}
+
+.border-primary {
+  border-color: #000000 !important;
+  border: 20px solid;
+}
+
+.card .card-image .card-title {
+  color: black;
+  position: absolute;
+  bottom: -1.5rem;
+  left: 2rem;
+  padding-left: 15px;
+}
+
+.card .card-image .card-title {
+  color: #000000;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  max-width: 80%;
+  padding: 10px;
+}
+
+.card .card-title {
+  font-size: 15px;
+  font-weight: 50;
+}
+
+.card .card-image .card-title {
+  color: #000000;
+  position: absolute;
+  bottom: -4rem;
+  left: 2rem;
+  padding: 20px;
+}
+
+.card {
+  width: 10rem;
+  color: #000000;
+  background-color: #fff;
+  border: 2px solid #000;
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+}
+
+.card-header {
+  font-size: medium;
+  font-weight: bold;
+}
+
+#yourTeam {
+  
+  text-align: center;
+  /* border-radius: .5rem .5rem 0 0; */
+  margin-top: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.material-icons {
+  margin-right: 2rem;
+}
+
+.jumbotron {
+  padding: 1rem 0rem;
+  margin-bottom: 1rem;
+  border-radius: 0 0 1.5rem 1.5rem;
+  margin: -.50rem 0.05rem 1rem 0.05rem;
+  border: 1px solid #000;
+  width: initial;
+}
+
+.cardBody {
+  max-width: 4rem;
+
+  border-radius: 1rem;
+  border: 5px solid #000;
+}
+
+.text-primary {
+  color: #000 !important;
+  -webkit-text-stroke-width: thin;
+}
+
+.col .row {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  
+}
+
+
+.col-m-2 {
+  margin: 1.5rem;
+}
+
+.col {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 80%;
+}
+
+.p-span {
+  color: #000;
+  font-weight: bold;
+}
+
+.name-title {
+  font-size: 15px;
+  font-weight: bold;
+  color: #000;
+}
+
+@media (min-width: 576px) {
+  .card-group>.card+.card {
+    margin-left: 0;
+    border-left: 1px solid #000;
+  }
+}
