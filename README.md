@@ -1,5 +1,4 @@
 
-
 <!-- <a href="https://github.com/Truesavage" style="float:right"><img src="https://avatars3.githubusercontent.com/u/13158626?s=460&v=4" alt="Savage" title="Savage" width="120" height="120"></a> -->
 
 # Team Profile Generator
@@ -9,7 +8,7 @@ After this step, use ``` node app.js ``` to run application. Open the "Team.html
 
 
 __Team Profile Generator__
-Dynamically generates your team's profile based on terminal input via inquirer.
+ This application generates your team's profile based on terminal input.
 
 __Installation:__
 npm install inquirer
@@ -21,7 +20,7 @@ __Usage:__
 Run: node app.js
 
 __Contributors:__
-Savage
+none
 
 __Tests:__
 Constructor: Employee.js Passed
