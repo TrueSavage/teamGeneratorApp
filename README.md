@@ -1,6 +1,18 @@
+<<<<<<< HEAD
 
 
 
+=======
+<div>
+<img src= "/Assets/test results.jpg" alt="test screen shot" height="180" width="180">
+ <img src= "Assets/app questions from terminal.jpg" alt="terminal questions screen shot" height="180" width="180">
+ <img src= "Assets/team generator demo pic.png" alt="app screen shot" height="180" width="180">
+ <img src= "Assets/favicon.png" alt="favicon image" height="180" width="180">
+<!-- img {
+  display: inline-block;
+} -->
+ </div>
+>>>>>>> abc30908fb72a8ec8cec155c1b84f9278a112549
 
 # Team Profile Generator
 ## Node.js and Constructor based team or employee profile generator with unit testing.
@@ -9,7 +21,7 @@ After this step, use ``` node app.js ``` to run application. Open the "Team.html
 
 
 __Team Profile Generator__
-Dynamically generates your team's profile based on terminal input via inquirer.
+ This application generates your team's profile based on terminal input.
 
 __Installation:__
 npm install inquirer
@@ -21,7 +33,7 @@ __Usage:__
 Run: node app.js
 
 __Contributors:__
-Savage
+none
 
 __Tests:__
 Constructor: Employee.js Passed
