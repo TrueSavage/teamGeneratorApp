@@ -1,5 +1,12 @@
-
-
+<div>
+<img src= "/Assets/test results.jpg" alt="test screen shot" height="180" width="180">
+ <img src= "Assets/app questions from terminal.jpg" alt="terminal questions screen shot" height="180" width="180">
+ <img src= "Assets/team generator demo pic.png" alt="app screen shot" height="180" width="180">
+ <img src= "Assets/favicon.png" alt="favicon image" height="180" width="180">
+<!-- img {
+  display: inline-block;
+} -->
+ </div>
 
 # Team Profile Generator
 ## Node.js and Constructor based team or employee profile generator with unit testing.
