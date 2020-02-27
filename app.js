@@ -8,6 +8,11 @@ const Handlebars = require('handlebars')
 let teamMembersArr = []
 let HTML = ''
 
+// app.engine('.hbs', require('express-handlebars')({ extname: '.hbs' }))
+// app.use(express.static(join(__dirname, 'public')))
+// app.set('view engine', '.hbs')
+
+
 let teamNumQues = [
   'Add total number of employees?'
 ]

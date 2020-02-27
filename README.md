@@ -1,6 +1,6 @@
 
 
-<!-- <a href="https://github.com/Truesavage" style="float:right"><img src="https://avatars3.githubusercontent.com/u/13158626?s=460&v=4" alt="Savage" title="Savage" width="120" height="120"></a> -->
+
 
 # Team Profile Generator
 ## Node.js and Constructor based team or employee profile generator with unit testing.
